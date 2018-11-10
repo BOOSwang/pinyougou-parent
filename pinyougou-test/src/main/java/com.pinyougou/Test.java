@@ -22,6 +22,10 @@ public class Test {
     }
 
     public static void send(String msg){
+        msg(msg);
+    }
+
+    public static void msg(String msg){
         System.out.println(msg);
     }
 
