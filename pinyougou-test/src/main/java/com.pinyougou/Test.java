@@ -29,5 +29,9 @@ public class Test {
         System.out.println(msg);
     }
 
+    public static void test(){
+        System.out.println("分支测试");
+    }
+
 
 }
