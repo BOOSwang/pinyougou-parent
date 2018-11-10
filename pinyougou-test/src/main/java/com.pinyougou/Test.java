@@ -30,7 +30,7 @@ public class Test {
     }
 
     public static void test(){
-        System.out.println("分支测试");
+        System.out.println("分支测试1");
     }
 
 
