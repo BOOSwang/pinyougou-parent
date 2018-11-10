@@ -21,5 +21,9 @@ public class Test {
         System.out.println("测试上传代码");
     }
 
+    public static void send(String msg){
+        System.out.println(msg);
+    }
+
 
 }
